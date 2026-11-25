@@ -1,0 +1,6 @@
+# Unused raw source & reference archives (not needed by the live website)
+assets/outlate/
+assets/videos/
+assets/model/
+.DS_Store
+Thumbs.db
